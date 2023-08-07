@@ -1,3 +1,4 @@
+/* styling the body*/
 * body{
     padding: 0;
     margin: 0;
@@ -5,6 +6,7 @@
     line-height: 1.43;
     font-family: sans-serif;
 }
+/* styling the header and all its components*/
 header{
     display: flex;
     justify-content: space-around;
@@ -60,6 +62,7 @@ img{
     height: 40px;
 
 }
+/* styling the topsection section*/
 #topsection{
     color: #00b39b;
     font-size: 3.29rem;
@@ -80,6 +83,7 @@ img{
   width: 100%;
   justify-content: space-between;
 }
+/* styling the forsection sction*/
 .forsection{
     display: flex;
     width: 100px;
@@ -171,6 +175,7 @@ p{
     text-decoration: underline;
     margin-bottom: 30px;
 }
+/* styling the midsection section*/
 .midsection{
     display: flex;
     width: 100%;
@@ -209,7 +214,7 @@ img{
     vertical-align: middle;
     border: 0;
 }
-
+/* styling the midsection2 section*/
 .midsection2 {
     display: flex;
     justify-content: center;
@@ -271,7 +276,7 @@ img{
     vertical-align: middle;
     border: 0;
 }
-
+/* styling the parts in midsection2*/
 .midsection2parts h3 {
     font-size: 1.8461538462em;
     color: #00b39b;
@@ -338,6 +343,7 @@ img{
     height: auto;
     vertical-align: middle;
  }
+ /* styling midsection3 and its components*/
  .midsection3 {
     display: flex;
     justify-content: center;
@@ -361,6 +367,7 @@ img{
     font-family: Roboto, Arial, sans-serif;
     color: #747474
  }
+ /* styling midsection4 and all its components*/
  .midsection4 {
     width: 100%;
     display: flex;
@@ -418,6 +425,7 @@ div .button {
     display: flex;
     justify-content: space-between;
 }
+/* styling lastsection section*/
 .lastsection h1 {
     font-size: 2.1428571429em;
     color: #333;
@@ -427,6 +435,7 @@ div .button {
     letter-spacing: -0.3px;
     text-align: center;
   }
+  /* styling the lastsection buttons*/
   .lastsection button {
     margin-left: 120px;
     background-color: #3d83df;
@@ -449,7 +458,7 @@ div .button {
     justify-content: center;
     align-items: center;
   }
-  
+  /* styling the footer section*/
   footer {
     text-align: center;
     margin-top: 100px;
